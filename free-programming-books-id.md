@@ -60,6 +60,7 @@
 
 ### Java
 
+* [Java Desktop](https://github.com/ifnu/buku-java-desktop/blob/master/java-desktop-ifnu-bima.pdf) - Ifnu Bima
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
 
 
